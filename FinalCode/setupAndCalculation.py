@@ -1171,3 +1171,21 @@ for i in range(15):
 
 for i in range(15):
     print(finalResult[i][28])
+#%%
+'''
+New Passenger Predictions
+'''
+def histNewPassengers(probLst, numDays):
+    newPassengerLst = [0]*len(probLst)
+    for i in range(len(newPassengerLst):
+        newPassengerLst[i] += (sum(probLst[i]) / numDays)
+    return newPassengerLst
+                  
+
+    
+
+
+
+
+
+
