@@ -1,0 +1,38 @@
+Testing with training data:
+Gaussian Naive Bayes, 100% Data: 0.06
+Multinomial Naive Bayes, 100% Data: 0.03
+Logistic Regression, 1/10 Data: 0.07
+Logistic Regression Cross Validated, 1/10 Data: 0.06
+One vs. Rest RBF, 1/30 Data: 0.1
+k-Neighbors Classifier, 100% Data: 0.26
+Multi-layer Perceptron, 100% Data: 0.06
+Label Propagation KNN, 1/10 Data: 0.01
+Label Propagation RBF, 1/10 Data: 0.04
+Label Spread KNN, 1/30 Data: 0.04
+Label Spread RBF, 1/30 Data: 0.06
+
+Testing with February Data:
+Gaussian Naive Bayes, 100% Data: 0.0508083140878
+Multinomial Naive Bayes, 100% Data: 0.0184757505774
+Logistic Regression, 1/10 Data: 0.05542752517321
+Logistic Regression Cross Validated, 1/10 Data: 0.0577367205543
+One vs. Rest RBF, 1/30 Data: 0.0554272517321
+k-Neighbors Classifier, 100% Data: 0.0508083140878
+Multi-layer Perceptron, 100% Data: 0.07159353134873
+Label Propagation KNN, 1/10 Data: 0.0531177829099
+Label Propagation RBF, 1/10 Data: 0.0207852193995
+Label Spread KNN, 1/30 Data: 0.053117782099
+Label Spread RBF, 1/30 Data: 0.0207852193995
+
+Testing with March Data:
+Gaussian Naive Bayes, 100% Data: 0.0309677419355
+Multinomial Naive Bayes, 100% Data: 0.0167741935484
+Logistic Regression, 1/10 Data: 0.0270967741935
+Logistic Regression Cross Validated, 1/10 Data: 0.0322580645161
+One vs. Rest RBF, 1/30 Data: 0.0335483870968
+k-Neighbors Classifier, 100% Data: 0.0167741935484
+Multi-layer Perceptron, 100% Data: 0.07159353134873
+Label Propagation KNN, 1/10 Data: 0.0296774193548
+Label Propagation RBF, 1/10 Data: 0.0296774193548
+Label Spread KNN, 1/30 Data: 0.0283870967742
+Label Spread RBF, 1/30 Data: 0.00258064516129
